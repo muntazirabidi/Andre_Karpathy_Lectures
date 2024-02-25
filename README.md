@@ -1,6 +1,6 @@
-# Andre_Karpathy_Lectures
+# Andre Karpathy Lectures
 
-# The Spelled-Out Intro to Neural Networks and Backpropagation
+# Lecture 01: Neural Networks and Backpropagation
 
 ## Key Takeaways
 - Backpropagation and Gradient Computation: The core of neural network training, backpropagation, relies on efficiently computing gradients of the loss function with respect to the network's weights. This process is crucial for understanding how to adjust the weights to improve the network's performance.
